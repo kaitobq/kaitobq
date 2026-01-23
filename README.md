@@ -1,8 +1,5 @@
 ## Hi there 👋
 
-## My Portfolio
-https://kaitobq-portfolio.vercel.app/
-
 ## Stats
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kaitobq&theme=gruvbox)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kaitobq&theme=gruvbox)
